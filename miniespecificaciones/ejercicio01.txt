@@ -5,7 +5,7 @@
 5.    Escribir variable
 5.  fin funcion principal 
 6. // se define un método o función
-7.  funcion obtenerMensaje()
+7.  funcion obtenerMensaje() : x
 8.    v, x(20)[{a-z}, {BS}]
 9.    v <-- "Hola Mundo"
 10.   retorna v
